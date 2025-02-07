@@ -1,4 +1,5 @@
-https://yourlocalpal.github.io/
+
+[![Visit My Website](https://img.shields.io/badge/Visit-My%20Website-blue?style=for-the-badge)](https://yourlocalpal.github.io)
 
 # Telecom Network Dashboard
 
