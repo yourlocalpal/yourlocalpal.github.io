@@ -1,1 +1,0 @@
-# yourlocalpal.github.io
